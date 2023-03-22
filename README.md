@@ -37,4 +37,4 @@ This is a python-pandas project based on ZARA US fashion products dataset.
 
 
 
-***Findings and Conclusions : 
+***Findings and Conclusions : After analysing the data, I found out that Jute Rug is the most expensive product in all the categories, which is priced at $449. It was evident that 84% products were In-stock. Zara brand has 1270 products while Zara Home brand has 246, which means Zara does not sell more Home products than fashion products.
