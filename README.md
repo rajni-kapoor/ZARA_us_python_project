@@ -23,8 +23,8 @@ This is a python-pandas project based on ZARA US fashion products dataset.
 •	Find the highest and lowest priced item?  
 •	Show/plot the top 5 and bottom 5 products on the basis of price in a graph?  
 •	Find how many products are InStock?  
-•	Plot a pie chart to show the percentage of availability of the items?  
-•	Plot the graph with the number of products in ‘ZARA’ and ‘ZARAHOME’ brand?  
+•	What is the percentage of availability of the items? Use a graph to show this.  
+•	H products in ‘ZARA’ and ‘ZARAHOME’ brand?  
 
 ![image](https://user-images.githubusercontent.com/123319398/226768567-84fef20d-4fd2-4369-8c21-6cd4438a8d99.png)
 
