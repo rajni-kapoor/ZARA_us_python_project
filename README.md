@@ -11,20 +11,20 @@ This is a python-pandas project based on ZARA US fashion products dataset.
 
 
 **Step 2 – Transformation/ Cleaning of data : 
-•	Deleting a column ’mpn’ as it had the same data in ‘sku’ column.
-•	Checking and dropping null values
-•	Converting datatype of ‘price’ column from float to integer for future reference
-•	Replacing ‘’ with ‘out of stock’ value in ‘availability’ column
+•	Deleting a column ’mpn’ as it had the same data in ‘sku’ column.  
+•	Checking and dropping null values  
+•	Converting datatype of ‘price’ column from float to integer for future reference  
+•	Replacing ‘’ with ‘out of stock’ value in ‘availability’ column  
 
 ![image](https://user-images.githubusercontent.com/123319398/226768096-6236ddd1-fe2d-4d37-b899-2bf9afd00010.png)
 
 
-**Step 3 – Questions to analyze the data : After preparing the data, I shortlisted following business questions to understand the data:
-•	Find the highest and lowest priced item?
-•	Show/plot the top 5 and bottom 5 products on the basis of price in a graph?
-•	Find how many products are InStock?
-•	Plot a pie chart to show the percentage of availability of the items?
-•	Plot the graph with the number of products in ‘ZARA’ and ‘ZARAHOME’ brand?
+**Step 3 – **Questions to analyze the data** : I shortlisted following business questions to analyze the data so that I can have better insight of the business:
+•	Find the highest and lowest priced item?  
+•	Show/plot the top 5 and bottom 5 products on the basis of price in a graph?  
+•	Find how many products are InStock?  
+•	Plot a pie chart to show the percentage of availability of the items?  
+•	Plot the graph with the number of products in ‘ZARA’ and ‘ZARAHOME’ brand?  
 
 ![image](https://user-images.githubusercontent.com/123319398/226768567-84fef20d-4fd2-4369-8c21-6cd4438a8d99.png)
 
